@@ -1,5 +1,5 @@
 # CollapsibleDatePicker
-
+![](https://img.shields.io/badge/Swift-5.2-blue.svg?style=flat)
 ## Features
 
 1) `You can use it with storyboard and Programmatically`
