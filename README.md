@@ -1,6 +1,6 @@
 # CollapsibleDatePicker
 ![](https://img.shields.io/badge/Swift-5.2-blue.svg?style=flat)
-[![License](http://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/mohammed1955/CollapsibleDatePicker/blob/master/license
+[![License](http://img.shields.io/badge/license-MIT-green.svg?style=flat)](https://github.com/mohammed1955/CollapsibleDatePicker/blob/master/license)
 [Platform](https://img.shields.io/cocoapods/p/BetterSegmentedControl.svg?style=flat)])
 ## Features
 
