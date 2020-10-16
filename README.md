@@ -25,7 +25,7 @@ If you prefer not to use SPM, you can integrate CollapsibleDatePicker into your 
 ### Storyboard
 You can use CollapsibleDatePicker from storyboard easily By changing the type of a regular UIView into CollapsibleDatePickerView and set its Moudle to be CollapsibleDatePicker.
 
-###  Customize
+###  Programmatically
 ```swift
 let collapseView = CollapsibleDatePickerView()
 collapseView.dateType = .dateAndTime
