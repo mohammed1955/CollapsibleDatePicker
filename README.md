@@ -16,12 +16,12 @@
 - iOS 11.0+
 - Xcode 9+
 
-### Swift Package Manager
+## Swift Package Manager
 
 CollapsibleDatePicker is available through Swift Package Manager. To install
 it, simply go to Xcode under `File > Swift Packages > Add Package Dependency...`
 
-### Manually
+## Manually
 
 If you prefer not to use SPM, you can integrate CollapsibleDatePicker into your project manually.
 
