@@ -27,6 +27,7 @@ You can use CollapsibleDatePicker from storyboard easily By changing the type of
 
 ###  Customize
 ```swift
+let collapseView = CollapsibleDatePickerView()
 collapseView.dateType = .dateAndTime
 collapseView.doneButtonBackgroundColor = #colorLiteral(red: 0, green: 0.4784313725, blue: 1, alpha: 1)
 
